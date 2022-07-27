@@ -1,1 +1,1 @@
-# EventBrite
+# EventMaster
